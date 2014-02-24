@@ -63,7 +63,7 @@ a {
 }
 
 .main > header h1 span {
-	display: block;
+	display: inline-block;
 	font-size: 30px;
 	font-weight: 300;
 }
