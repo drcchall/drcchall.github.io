@@ -24,13 +24,20 @@ html { height: 100%; }
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    background: #6E6E6E;
+    background: #949494;
     font-weight: 300;
     font-size: 15px;
     color: #333;
     -webkit-font-smoothing: antialiased;
     overflow-y: scroll;
     overflow-x: hidden;
+}
+
+p{
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+	color: #333;
+	font-size: 15pt;
+	padding-left: 15px;
 }
 
 a {
@@ -58,7 +65,7 @@ a {
 	line-height: 38px;
 	margin: 0;
 	font-weight: 700;
-	color: #2E2E2E;
+	color: #99cc33;
 	float: left;
 }
 
@@ -66,6 +73,7 @@ a {
 	display: inline-block;
 	font-size: 30px;
 	font-weight: 300;
+	padding-left: 20px;
 }
 
 .main h2 {
