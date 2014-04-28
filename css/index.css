@@ -1,0 +1,35 @@
+body{
+    background: url(../images3/canvas.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+h1{
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+	color: #525252;
+	font-size: 70pt;
+	text-align: center;
+	padding-top; 5px;
+	margin: 5px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+
+a{
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+	color: #525252;
+	font-size: 40pt;
+	text-decoration: none
+}
+
+.links {
+    text-align: center;
+    width: auto;
+}
