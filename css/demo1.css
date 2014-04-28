@@ -24,10 +24,13 @@ html { height: 100%; }
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    background: #949494;
+    background: url(../images3/canvas.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     font-weight: 300;
     font-size: 15px;
-    color: #333;
     -webkit-font-smoothing: antialiased;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -35,13 +38,13 @@ body {
 
 p{
 	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
-	color: #333;
+	color: #525252;
 	font-size: 15pt;
 	padding-left: 15px;
 }
 
 a {
-	color: #555;
+	color: #A8A8A8;
 	text-decoration: none;
 }
 
@@ -65,7 +68,7 @@ a {
 	line-height: 38px;
 	margin: 0;
 	font-weight: 700;
-	color: #99cc33;
+	color: #525252;
 	float: left;
 }
 
