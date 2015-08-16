@@ -1,0 +1,52 @@
+html, body, section, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 3em;
+    position: fixed;
+    background-color: orange;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    height: 100vh;
+}
+
+section:first-of-type {
+    padding-top: 3em;
+}
+
+#nav {
+    float: right;
+    list-style-type: none;
+}
+
+#nav li {
+    display: inline;
+}
+
+#intro {
+    background-color: red;
+}
+
+#jobs {
+
+    background-color: green;
+}
+
+#about {
+
+    background-color: purple;
+}
+
+#last {
+
+    background-color: blue;
+}
+
