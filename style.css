@@ -55,6 +55,9 @@ footer div:first-of-type {
     color: #3399cc
 }
 
+footer a {
+    color: white;
+}
 
 .dot {
     color: #FF9966;
