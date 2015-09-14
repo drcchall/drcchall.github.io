@@ -91,9 +91,8 @@ footer a {
     align-items: center;
 }
 
-#intro div {
-    text-align: center;
-    margin: 10vw;
+#intro img {
+    width: 70vw;
 }
 
 #jobs {
