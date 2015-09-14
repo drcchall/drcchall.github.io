@@ -74,8 +74,8 @@ footer div:first-of-type {
 #nav li {
     font-weight: 900;
     display: inline;
-    padding-left: 5vw;
-    padding-right: 5vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
 
 #intro {
