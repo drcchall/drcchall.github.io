@@ -68,6 +68,11 @@ footer a {
 .job {
     height: 200px;
     padding: 20px;
+}
+
+.job a {
+    height: 100%;
+    width: 100%;
 
     display:flex;
     justify-content: center;
