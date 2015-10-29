@@ -113,7 +113,8 @@ footer a {
     color: white;
     font-size: 2.5vw;
 
-    height: calc(100vh - 3em);
+    /* The -3em here is to account for the header-bar height */
+    height: calc(80vh - 3em);
     display: flex;
     justify-content: center;
     align-items: center;
